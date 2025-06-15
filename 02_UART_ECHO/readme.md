@@ -1,4 +1,4 @@
-Configured UART peripheral with the following parameters
+Configured UART peripheral with the following parameters.
 Baud rate : 115200
 Parity : None
 Interrupt : TX & RX
