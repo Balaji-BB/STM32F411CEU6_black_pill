@@ -1,4 +1,4 @@
-Trying out the software switch debouncing concept for reading an push button
+Trying out the software switch debouncing concept for reading an push buttons
 - Configure pins as external interrupt
 - Configure pins mode either PULL UP/PULL DOWN based on the hardware circuit
 - Configure the interrupt mode - either RISING/FALLING/BOTH
